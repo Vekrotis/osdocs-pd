@@ -54,14 +54,26 @@ color: #3355fdd9;
 color: #1c3de1e6;
 color: #5470feca;
 color: #2849eee6;
+color: rgba(40, 73, 238, 0.902);
+color: #425ff11a;
+color: #425ff11c;
+color: #28b76b;
+color: rgb(244, 252, 246);
 color: #425ff115;
+color: #f4fcf6 #5d6778 #e7e9ed;
+     text-decoration-color: rgba(40, 183, 107, 0.8);
 }
 
+1947
+11934
+429
+11815
 !theme.css!
 darkorange
 orange
 brown
 
+a.theme-link a 353 (barva odkazu)
 11928 header
 11921 card icons
 11943 header trojuhelníky
